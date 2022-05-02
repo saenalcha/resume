@@ -1,37 +1,56 @@
 ## Saenal Cha
 
-You can use the [editor on GitHub](https://github.com/saenalcha/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="./assets/img/profile-2.jpg" width="400" height="533" title="profile" alt="profile_image"/> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm web front-end developer interested in building a good usability application. 
+I prefer well-structured readable code.
+I like lean software development.
+Currently, I am working on the microservice architecture environment.
 
-### Markdown
+### Languages and Technologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+**Languages**: TypeScript, JavaScript, HTML/CSS, SCSS, SQL, Kotlin, PHP, C
 
-```markdown
-Syntax highlighted code block
+**Technologies**: React.js, Next.js, Vue.js, Nuxt.js, Node.js, Express.js, Apollo GraphQL, AWS, Jenkins, docker
 
-# Header 1
-## Header 2
-### Header 3
+Other: Jest, Storybook, Browserstack, Charles, Bitbucket
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Work Experience
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Web Front-end Developer. [yanolja](https://yanolja.in/en/), 2019. 4. 15 ~ current
 
-### Jekyll Themes
+* Enterprise Dashboard Site 
+  * React(Next.js), TypeScript, Redux, Node.js, Antd
+* Order Dashboard Site
+  * Launch new dashboard site for integrate several categories(reservation, leisure, transportation) dashboard sites
+  * React(Next.js), Apollo + GraphQL, recoil, emotion/styled, antd
+* Order site for webview
+  * Nuxt.js
+* Order list site for webview
+  * Nuxt.js
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saenalcha/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+Web Front-end Developer. [publy](https://publy.co/), 2016. 12. 6 ~ 2019. 4. 12 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* React Native App
+  * Expo
+* Membership subscription service
+  * Vue.js, Bootstrap, PHP 7 Laravel
+* Product design
+  * Sketch App
+
+
+### Education
+
+---
+
+2021. 3 ~ current. Computer Science. [Korean National Open University](https://en.wikipedia.org/wiki/Korea_National_Open_University), Seoul, Korea.
+ 
+2022. 3 ~ 2016. 2. Visual Communication Design, B.F.A, [Hongik University](https://en.wikipedia.org/wiki/Hongik_University), Seoul, Korea.
+
