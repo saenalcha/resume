@@ -1,6 +1,6 @@
 ## Saenal Cha
 
-<img src="./assets/img/profile-2.jpg" width="400" height="533" title="profile" alt="profile_image"/> 
+<img src="./assets/img/profile-2.jpg" title="profile" alt="profile_image"/> 
 
 I'm web front-end developer interested in building a good usability application. 
 I prefer well-structured readable code.
