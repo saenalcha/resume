@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Saenal Cha
 
 You can use the [editor on GitHub](https://github.com/saenalcha/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
