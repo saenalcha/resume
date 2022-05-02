@@ -7,6 +7,8 @@ I prefer well-structured readable code.
 I like lean software development.
 Currently, I am working on the microservice architecture environment.
 
+<br>
+
 ### Languages and Technologies
 
 ---
@@ -17,6 +19,7 @@ Currently, I am working on the microservice architecture environment.
 Other: Jest, Storybook, Browserstack, Charles, Bitbucket
 
 
+<br>
 
 ### Work Experience
 
@@ -45,12 +48,13 @@ Web Front-end Developer. [publy](https://publy.co/), 2016. 12. 6 ~ 2019. 4. 12
 * Product design
   * Sketch App
 
+<br>
 
 ### Education
 
 ---
 
-2021. 3 ~ current. Computer Science. [Korean National Open University](https://en.wikipedia.org/wiki/Korea_National_Open_University), Seoul, Korea.
+March 2021 ~ current. Computer Science. [Korean National Open University](https://en.wikipedia.org/wiki/Korea_National_Open_University), Seoul, Korea.
  
-2022. 3 ~ 2016. 2. Visual Communication Design, B.F.A, [Hongik University](https://en.wikipedia.org/wiki/Hongik_University), Seoul, Korea.
+March 2009 ~ February 2016. Visual Communication Design, B.F.A, [Hongik University](https://en.wikipedia.org/wiki/Hongik_University), Seoul, Korea.
 
