@@ -25,9 +25,18 @@ Other: Jest, Storybook, Browserstack, Charles, Bitbucket
 
 ---
 
-Web Front-end Developer. [yanolja](https://yanolja.in/en/), 2019. 4. 15 ~ current
+Web Front-end Developer. [Hyperconnect](https://hyperconnect.com/en/), 2022. 7. 1. ~ current
 
-* Enterprise Dashboard Site 
+* WebRTC content moderation web application 
+  * React, TypeScript, react-router, react-query, Zustand, MUI, emotion/styled, openapi-generator
+* AI labeling web application (for model training)
+  * React, TypeScript, react-router, react-query, Zustand, MUI, emotion/styled, openapi-generator
+
+---
+
+Web Front-end Developer. [yanolja](https://yanolja.in/en/), 2019. 4. 15. ~ 2022. 7. 14.
+
+* Enterprise Dashboard Site (for a settlement)
   * React(Next.js), TypeScript, Redux, Node.js, Antd
 * Order Dashboard Site
   * Launch new dashboard site for integrate several categories(reservation, leisure, transportation) dashboard sites
@@ -39,7 +48,7 @@ Web Front-end Developer. [yanolja](https://yanolja.in/en/), 2019. 4. 15 ~ curren
 
 ---
 
-Web Front-end Developer. [publy](https://publy.co/), 2016. 12. 6 ~ 2019. 4. 12 
+Web Front-end Developer. [publy](https://publy.co/), 2016. 12. 6. ~ 2019. 4. 12.
 
 * React Native App
   * Expo
