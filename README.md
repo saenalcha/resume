@@ -25,7 +25,7 @@ Other: Jest, Storybook, Browserstack, Charles, Bitbucket
 
 ---
 
-Web Front-end Developer. [Hyperconnect](https://hyperconnect.com/en/), 2022. 7. 1. ~ current
+Web Front-end Developer. [Hyperconnect](https://hyperconnect.com/en/), 2022. 7. 11. ~ 2023. 7. 31.
 
 * WebRTC content moderation web application 
   * React, TypeScript, react-router, react-query, Zustand, MUI, emotion/styled, openapi-generator
