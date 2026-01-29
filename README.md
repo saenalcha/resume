@@ -1,7 +1,5 @@
 ## Saenal Cha
 
-<img src="./assets/img/profile-2.jpg" title="profile" alt="profile_image"/> 
-
 I'm web front-end developer interested in building a good usability application. 
 I prefer well-structured readable code.
 I like lean software development.
